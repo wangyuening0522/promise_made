@@ -1,4 +1,4 @@
-const PENDING = "pending";
+const PENDING = "pending";aaa
 const FULFILLED = "fulfilled";
 const REJECTED = "rejected";
 //myPromise函数时Promsiede构造函数
